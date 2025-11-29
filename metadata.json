@@ -1,0 +1,5 @@
+{
+  "name": " AI Villa Architect",
+  "description": "An AI-powered application using Nano Banana (Gemini 2.5 Flash Image) to design and visualize villas in different styles and seasons.",
+  "requestFramePermissions": []
+}
